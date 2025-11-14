@@ -1,4 +1,6 @@
-# URL to main site: https://kive7791.github.io/Universal-Design-Final-Project/MainSite.html
+- Main site URL: https://kive7791.github.io/Universal-Design-Final-Project/MainSite.html
+- Subpage URL: https://kive7791.github.io/Universal-Design-Final-Project/Subpage.html
+
 # Universal Design Final Project — Accessible Website Redesign
 This repository contains the final implementation work for our Universal Design course project, focused on redesigning and recoding key components of the City of Lafayette Communications Department website. Our goal was to improve accessibility, usability, and structural clarity following WCAG 2.1 AA guidelines and heuristic evaluation best practices.
 
